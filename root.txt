@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes changes of files.
 第一次修改
 第二次修改
+第三次修改:
+第四次修改
